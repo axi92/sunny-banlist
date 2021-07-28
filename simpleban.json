@@ -1,0 +1,11 @@
+{
+	"Simple":"Ban",
+	"BanListUrls":[
+		"http://sunnybanlist.axi92.at/banlist.txt"
+	],
+	"MaxLogPersist":1000,
+	"SendLogsToAdminChat":true,
+	"DisablePlayerFamilySharingData":false,
+	"KickMessage":"[SimpleBan] You are not allowed on this Ark.",
+	"RefreshSettingsIntervalMinutes":60
+}
