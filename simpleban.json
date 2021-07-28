@@ -7,5 +7,5 @@
 	"SendLogsToAdminChat":true,
 	"DisablePlayerFamilySharingData":false,
 	"KickMessage":"[SimpleBan] You are not allowed on this Ark.",
-	"RefreshSettingsIntervalMinutes":60
+	"RefreshSettingsIntervalMinutes":5
 }
